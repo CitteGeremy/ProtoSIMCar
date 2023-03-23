@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/2K/AWTL62P1ZKB7AKKDWZ0M1O.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/StarterContent/SAVE/MAPS/TEST.umap",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/HoverCarSystem/Blueprints/BP_Hover_Car.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/StarterContent/SAVE/BP_Hover_Car_Effects.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/HoverCarSystem/Blueprints/AI_Controller/BP_Hover_Simple_AI.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/B3/VH3CY4DXADZFOR0NEKYU77.uasset",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/YR/G2G32LVZARRRDITQHGTXS2.uasset",
+				"D:/kaiiz/Documents/GitHub/ProtoSIMCar/Content/StarterContent/SAVE/MAPS/TEST.umap",
+				"D:/kaiiz/Documents/Unreal Projects/ProtoSIMCar/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/0/NK/XYWJAYGX0C93IVIAPUOQCM.uasset"
+			]
+		}
+	]
+}
